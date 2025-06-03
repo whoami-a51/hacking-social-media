@@ -18,6 +18,7 @@ Ferramenta para automação de ataques de phishing em múltiplas plataformas soc
 
 ![descrição](/workflow.gif)
 
+https://github.com/htr-tech/zphisher
 
 Hydra:
 Ferramenta de força bruta para testar senhas fracas em logins públicos ou APIs mal protegidas.
@@ -26,6 +27,8 @@ Permite realizar autenticações em massa com combinações de usuário e senha.
 Exemplo básico de uso com Hydra (web login):
 
     hydra -l usuário -P senhas.txt facebook.com http-post-form "/login:email=^USER^&pass=^PASS^:F=login_error"
+
+https://github.com/vanhauser-thc/thc-hydra
 
 🕵️‍♂️ Keyloggers e Sniffers para Captura de Credenciais
 
