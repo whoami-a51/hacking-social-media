@@ -5,7 +5,6 @@ O objetivo é compreender vulnerabilidades comuns em redes sociais e como preven
 O uso indevido destas informações é crime.
 
 🔐 Brute Force e Phishing em Redes Sociais – Estudo de Ferramentas
-Ferramentas Abordadas:
 
 SET (Social-Engineer Toolkit):
 Framework poderoso para engenharia social, com suporte à criação de páginas falsas de login para fins de teste.
@@ -22,6 +21,7 @@ Exemplo básico de uso com Hydra (web login):
     hydra -l usuário -P senhas.txt facebook.com http-post-form "/login:email=^USER^&pass=^PASS^:F=login_error"
 
 🕵️‍♂️ Keyloggers e Sniffers para Captura de Credenciais
+
 🔑 Keyloggers:
 
 Logkeys:
