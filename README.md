@@ -11,7 +11,7 @@ Ferramentas abordadas:
 • Ferramenta de Brute Force (Hydra): usada para testar senhas fracas por força bruta em logins públicos ou APIs mal protegidas Ela permite realizar ataques de força bruta contra diversos serviços de login. Com os parâmetros certos, dá pra tentar autenticações em massa, simulando logins com combinações de usuário e senha.
 
 Exemplo básico de uso (para web login):
-    $ hydra -l usuário -P senhas.txt facebook.com http-post-form "/login:email=^USER^&pass=^PASS^:F=login_error"
+    ´´´ $ hydra -l usuário -P senhas.txt facebook.com http-post-form "/login:email=^USER^&pass=^PASS^:F=login_error" ```
 
 🕵️‍♂️ Keyloggers e Sniffers para Captura de Credenciais
 
