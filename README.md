@@ -11,6 +11,8 @@ Framework poderoso para engenharia social, com suporte à criação de páginas 
 
 Zphisher:
 Ferramenta para automação de ataques de phishing em múltiplas plataformas sociais, com modelos prontos e fácil integração.
+![Uploading workflow.gif…]()
+
 
 Hydra:
 Ferramenta de força bruta para testar senhas fracas em logins públicos ou APIs mal protegidas.
