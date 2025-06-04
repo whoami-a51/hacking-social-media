@@ -11,7 +11,7 @@ Framework poderoso para engenharia social, com suporte à criação de páginas 
 
 ![descrição](/setoolkit.png)
 
-https://github.com/trustedsec/social-engineer-toolkit
+Dowload: https://github.com/trustedsec/social-engineer-toolkit
 
 🌐 Redirecionando com Ngrok e SEToolkit
 Se você tá rodando o SEToolkit localmente e quer expor a página falsa pra fora da rede (tipo pra testes em ambiente controlado), o Ngrok é a ferramenta chave. Ele cria um túnel HTTP pro seu localhost.
@@ -20,9 +20,11 @@ Se você tá rodando o SEToolkit localmente e quer expor a página falsa pra for
     ```ngrok http 80 ```
 
 2. O Ngrok vai gerar um link tipo:  
-    ``` https://12ab-xx-xx-xx-xx.ngrok.io ```  
-É esse link que você compartilha para testar a página em outro dispositivo.  
-https://ngrok.com/downloads/linux  
+    ``` https://12ab-xx-xx-xx-xx.ngrok.io ```
+   
+É esse link que você compartilha para testar a página em outro dispositivo.
+
+Dowload: https://ngrok.com/downloads/linux  
    
 Zphisher:
 Ferramenta para automação de ataques de phishing em múltiplas plataformas sociais, com modelos prontos e fácil integração.
@@ -39,7 +41,7 @@ Exemplo básico de uso com Hydra (web login):
 
     hydra -l usuário -P senhas.txt facebook.com http-post-form "/login:email=^USER^&pass=^PASS^:F=login_error"  
 
-https://github.com/vanhauser-thc/thc-hydra
+Dowload: https://github.com/vanhauser-thc/thc-hydra
 
 🕵️‍♂️ Keyloggers e Sniffers para Captura de Credenciais
 
