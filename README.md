@@ -11,7 +11,7 @@ Framework poderoso para engenharia social, com suporte à criação de páginas 
 
 ![descrição](/setoolkit.png)
 
-Dowload: https://github.com/trustedsec/social-engineer-toolkit
+Download: https://github.com/trustedsec/social-engineer-toolkit
 
 🌐 Redirecionando com Ngrok e SEToolkit
 Se você tá rodando o SEToolkit localmente e quer expor a página falsa pra fora da rede (tipo pra testes em ambiente controlado), o Ngrok é a ferramenta chave. Ele cria um túnel HTTP pro seu localhost.
@@ -24,14 +24,14 @@ Se você tá rodando o SEToolkit localmente e quer expor a página falsa pra for
    
 É esse link que você compartilha para testar a página em outro dispositivo.
 
-Dowload: https://ngrok.com/downloads/linux  
+Download: https://ngrok.com/downloads/linux  
    
 Zphisher:
 Ferramenta para automação de ataques de phishing em múltiplas plataformas sociais, com modelos prontos e fácil integração.
 
 ![descrição](/workflow.gif)
 
-Dowload: https://github.com/htr-tech/zphisher
+Download: https://github.com/htr-tech/zphisher
 
 Hydra:
 Ferramenta de força bruta para testar senhas fracas em logins públicos ou APIs mal protegidas.
