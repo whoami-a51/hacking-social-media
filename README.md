@@ -4,7 +4,7 @@ Atenção: Este repositório é destinado exclusivamente para fins educacionais,
 O objetivo é compreender vulnerabilidades comuns em redes sociais e como preveni-las.
 O uso indevido destas informações é crime.
 
-🕵️ Man-in-the-Middle (MITM)
+👨‍💻 Man-in-the-Middle (MITM)
 ===========================
 
 Evilgnix2:  
