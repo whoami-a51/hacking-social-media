@@ -25,7 +25,7 @@ Exige nível de conhecimento razoável para sua utilização, pois é utilizado 
 ==========================
 
 SET (Social-Engineer Toolkit):
-Framework poderoso para engenharia social, com suporte à criação de páginas falsas de login para fins de teste.
+Framework poderoso para engenharia social, com suporte à criação de páginas falsas de login para fins de ataque.
 
 ![descrição](/setoolkit.png)
 
