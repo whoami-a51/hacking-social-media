@@ -5,6 +5,7 @@ O objetivo é compreender vulnerabilidades comuns em redes sociais e como preven
 O uso indevido destas informações é crime.
 
 🕵️ Man-in-the-middle
+=====================
 
 Evilgnix2:  
 O Evilginx2 é uma ferramenta usada para realizar ataques de phishing avançado com foco em bypassar autenticação em duas etapas (2FA). Ele funciona como um proxy reverso, interceptando a comunicação entre a vítima e o site legítimo (como Google, Instagram, Facebook etc), de forma que o usuário veja a página verdadeira, mas todos os dados que ele digita são interceptados — inclusive tokens de sessão que podem ser usados para autenticar o atacante sem precisar da senha ou do 2FA.  
@@ -20,7 +21,8 @@ Exige nível de conhecimento razoável para sua utilização, pois é utilizado 
 
 3. Captura de credenciais e cookies: a vítima vê a página real, insere login, senha e autentica no 2FA. O Evilginx intercepta os cookies de sessão e pode usá-los para se passar pela vítima, sem precisar da senha ou do 2FA novamente.  
 
-🔐 Brute Force e Phishing  
+🔐 Phishing e Brute Force  
+==========================
 
 SET (Social-Engineer Toolkit):
 Framework poderoso para engenharia social, com suporte à criação de páginas falsas de login para fins de teste.
@@ -60,6 +62,7 @@ Exemplo básico de uso com Hydra (web login):
 Download: https://github.com/vanhauser-thc/thc-hydra
 
 🕵️‍♂️ Keyloggers e Sniffers para Captura de Credenciais
+=====================================================
 
 🔑 Keyloggers:
 
