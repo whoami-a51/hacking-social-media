@@ -11,17 +11,14 @@ O Evilginx2 é uma ferramenta usada para realizar ataques de phishing avançado 
 
 Exige nível de conhecimento razoável para sua utilização, pois é utilizado em conjunto com um Cloud Compute e um Domínio, portanto, configurar tudo isso pode ser bastante complexo para leigos.
 
-![descrição](/evilginx.png)
-
+![descrição](/evilginx.png)  
 🧠 Como o Evilginx funciona  
 
-    Criação de uma página fake: o atacante configura um domínio similar ao original (por ex. login-instagram.com).  
+1. Criação de uma página fake: o atacante configura um domínio similar ao original (por ex. login-instagram.com).  
 
-    Proxy reverso: quando a vítima acessa esse domínio, ela é redirecionada por trás dos panos para o verdadeiro site (como instagram.com), mas passando pelo Evilginx.  
+2. Proxy reverso: quando a vítima acessa esse domínio, ela é redirecionada por trás dos panos para o verdadeiro site (como instagram.com), mas passando pelo Evilginx.  
 
-    Captura de credenciais e cookies: a vítima vê a página real, insere login, senha e autentica no 2FA. O Evilginx intercepta os cookies de sessão e pode usá-los para se passar pela vítima, sem precisar da senha ou do 2FA novamente.  
-
-Download: https://github.com/kgretzky/evilginx2  
+3. Captura de credenciais e cookies: a vítima vê a página real, insere login, senha e autentica no 2FA. O Evilginx intercepta os cookies de sessão e pode usá-los para se passar pela vítima, sem precisar da senha ou do 2FA novamente.  
 
 🔐 Brute Force e Phishing  
 
