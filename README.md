@@ -4,8 +4,8 @@ Atenção: Este repositório é destinado exclusivamente para fins educacionais,
 O objetivo é compreender vulnerabilidades comuns em redes sociais e como preveni-las.
 O uso indevido destas informações é crime.
 
-👨‍💻 Man-in-the-Middle (MITM)
-===========================
+👨‍💻 Phishing + Man-in-the-Middle
+============================
 
 Evilgnix2:  
 O Evilginx2 é uma ferramenta usada para realizar ataques de phishing avançado com foco em bypassar autenticação em duas etapas (2FA). Ele funciona como um proxy reverso, interceptando a comunicação entre a vítima e o site legítimo (como Google, Instagram, Facebook etc), de forma que o usuário veja a página verdadeira, mas todos os dados que ele digita são interceptados — inclusive tokens de sessão que podem ser usados para autenticar o atacante sem precisar da senha ou do 2FA.  
