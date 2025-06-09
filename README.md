@@ -40,7 +40,7 @@ Se você tá rodando o SEToolkit localmente e quer expor a página falsa pra for
 2. O Ngrok vai gerar um link tipo:  
     ``` https://12ab-xx-xx-xx-xx.ngrok.io ```
    
-É esse link que você compartilha para testar a página em outro dispositivo.
+É esse link que você compartilha para testar a página em outro dispositivo após setar 127.0.0.1 no SET.
 
 Download: https://ngrok.com/downloads/linux  
    
