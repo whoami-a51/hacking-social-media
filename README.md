@@ -19,7 +19,10 @@ Exige nível de conhecimento razoável para sua utilização, pois é utilizado 
 
 2. Proxy reverso: quando a vítima acessa esse domínio, ela é redirecionada por trás dos panos para o verdadeiro site (como instagram.com), mas passando pelo Evilginx.  
 
-3. Captura de credenciais e cookies: a vítima vê a página real, insere login, senha e autentica no 2FA. O Evilginx intercepta os cookies de sessão e pode usá-los para se passar pela vítima, sem precisar da senha ou do 2FA novamente.  
+3. Captura de credenciais e cookies: a vítima vê a página real, insere login, senha e autentica no 2FA. O Evilginx intercepta os cookies de sessão e pode usá-los para se passar pela vítima, sem precisar da senha ou do 2FA novamente.
+
+Para campanhas de Phishing: Gophish  
+Templantes de Phishing para E-mails: Caniphish  
 
 🔐 Phishing e Brute Force  
 ==========================
